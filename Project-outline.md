@@ -90,8 +90,8 @@ Problem Analysis:
 - All variables but the avalability are strings, should have comments that help define that  
 
 Uncovered Problems: 
-- Assign ISBMs to match the array index to allow dynamic readjustment 
-- Make a cleaner function that will correctly capitalize titles and author names regardless of input assuming the input is somewhat valid 
+- Assign IBSMs to match the array index to allow dynamic readjustment 
+- Make a cleaner function that will correctly capitalize titles and author names regardless of input  assuming the input is somewhat valid 
 - Find a way to dynamically add objects to the library without hardcoding variables/objects 
 
 
